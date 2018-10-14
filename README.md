@@ -1,4 +1,5 @@
-# LetsDoIT
+# LetsDoIT	[![HitCount](http://hits.dwyl.io/ssp4all/LetsDoIT.svg)](http://hits.dwyl.io/ssp4all/LetsDoIT)
+
 
 LetDoIt is a to do List and memo type android application.
 
